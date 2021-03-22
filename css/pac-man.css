@@ -218,7 +218,7 @@ body{
         width: 50%;
     }
     .responsive{
-        width: 90%;
+        width: 100%;
         height: auto;
         margin-left: auto;
         margin-right: auto  ;
@@ -244,7 +244,7 @@ body{
         height: 25% ;
     }   
     .container{
-        height: 520px;
+        height: 550px;
         width: 60%;
     }
 }

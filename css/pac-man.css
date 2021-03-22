@@ -35,7 +35,11 @@ body{
     border-radius: 20px;
     display: flex;
     align-items: flex-end;
-}                                                                                                                                                                                                                                                                                                       
+}  
+
+.question{
+    color: white;
+}
 
 
 .quiz-container{

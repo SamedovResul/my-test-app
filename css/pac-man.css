@@ -175,6 +175,13 @@ body{
     color: red;
 }
 
+@media(max-width:1024px){
+    body{
+        height: 1000px;
+    }
+
+}
+
 @media(max-width:991px){
     .container{
         height: 600px;

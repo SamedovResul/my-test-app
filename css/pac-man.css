@@ -249,6 +249,12 @@ body{
     }
 }
 
+@media(max-width:395px){
+    .container{
+        height: 480px;
+    }
+}
+
 @media(max-width:345px){
     .quiz-option label{
         font-weight: 800;
@@ -256,9 +262,3 @@ body{
         margin-left: 5px;
     }
 }
-@media(max-width:395px){
-    .container{
-        height: 450px;
-    }
-}
-

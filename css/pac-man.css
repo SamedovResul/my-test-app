@@ -76,19 +76,19 @@ body{
 }
 
 .quiz-option:nth-child(1) {
-    background: #C1F3B0 ;
+    background: #c4f3b4 ;
 }
 
 
 .quiz-option:nth-child(2) {
-    background: #F5B9F5 ;
+    background: #f8c1f8 ;
 }
 
 .quiz-option:nth-child(3) {
     background: #F5E698 ;
 }
 .quiz-option:nth-child(4) {
-    background: rgb(125, 200, 230) ;
+    background: rgb(153, 210, 233) ;
 }
 
 .quiz-option:hover{

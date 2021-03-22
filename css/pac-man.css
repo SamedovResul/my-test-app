@@ -69,6 +69,10 @@ body{
     padding: 5px 6px 5px 6px;
 }
 
+.question-variant:nth-child(1) {
+    background: #57e727 ;
+}
+
 .quiz-option label{
     font-weight: 700;
     font-size: 20px;

@@ -6,7 +6,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    height: 650px;
 }
 
 .container{
@@ -214,9 +213,6 @@ body{
 }
 
 @media(max-width:496px){
-    body{
-        height: 730px;
-    }
     .quizbox{
         padding-top: 10px !important;
         height: 65%;

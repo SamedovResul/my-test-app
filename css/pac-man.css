@@ -253,6 +253,9 @@ body{
     .container{
         height: 480px;
     }
+    .gamelink{
+        margin-top: 10px;
+    }
 }
 
 @media(max-width:345px){

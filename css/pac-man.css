@@ -6,7 +6,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    height: 620px;
+    height: 700px;
 }
 
 .container{
@@ -166,6 +166,7 @@ body{
     background-color: blueviolet;
     border-radius: 30px;
     outline: 0 !important;
+    color: white;
 }
 
 .warning{

@@ -256,4 +256,9 @@ body{
         margin-left: 5px;
     }
 }
+@media(max-width:395px){
+    .imgbox{
+        height: 20% ;
+    }   
+}
 

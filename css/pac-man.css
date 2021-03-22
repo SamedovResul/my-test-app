@@ -244,7 +244,7 @@ body{
         height: 25% ;
     }   
     .container{
-        height: 560px;
+        height: 520px;
         width: 60%;
     }
 }
@@ -257,6 +257,9 @@ body{
     }
 }
 @media(max-width:395px){
+    .container{
+        height: 500px;
+    }
     .imgbox{
         height: 20% ;
     }   

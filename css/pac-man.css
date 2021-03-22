@@ -83,7 +83,7 @@ body{
     background: #c4f3b4 ;
 }
 .quiz-option:nth-child(1) span {
-    background: #89eb68  ;
+    background: #6aee3e  ;
 }
 
 
@@ -91,7 +91,7 @@ body{
     background: #f8c1f8 ;
 }
 .quiz-option:nth-child(2) span {
-    background: #f07bf0  ;
+    background: #e94ee9  ;
 }
 
 .quiz-option:nth-child(3) {
@@ -99,7 +99,7 @@ body{
 }
 
 .quiz-option:nth-child(3) span {
-    background: #fae060  ;
+    background: #ddc02e  ;
 }
 
 
@@ -107,7 +107,7 @@ body{
     background: rgb(153, 210, 233) ;
 }
 .quiz-option:nth-child(4)  span{
-    background: rgb(113, 207, 245) ;
+    background: rgb(64, 192, 243) ;
 }
 
 .quiz-option:hover{

@@ -260,6 +260,10 @@ body{
     .container{
         height: 450px;
     }
+    .quizbox {
+        padding-top: 10px !important;
+        height: 70%;
+    }    
     .imgbox{
         height: 20% ;
     }   

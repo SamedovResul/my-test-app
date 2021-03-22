@@ -37,10 +37,6 @@ body{
     align-items: flex-end;
 }  
 
-.question{
-    color: white;
-}
-
 
 .quiz-container{
     height: 70%;

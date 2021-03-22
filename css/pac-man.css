@@ -78,6 +78,10 @@ body{
     color: white;
 }
 
+.quiz-option:nth-child(1) span {
+    background: red ;
+}
+
 .quiz-option:nth-child(1) {
     background: #c4f3b4 ;
 }

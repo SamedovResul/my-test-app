@@ -260,11 +260,5 @@ body{
     .container{
         height: 450px;
     }
-    .quizbox {
-        height: 70%;
-    }    
-    .imgbox{
-        height: 20% ;
-    }   
 }
 

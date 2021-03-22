@@ -48,7 +48,7 @@ $(document).ready(function () {
     $(".click").click(function(){
         if (value == trueAnswer) {
             console.log(true)
-            $(".click").fadeOut()
+            $(".click").fadeOut(0.1)
             $(".warning").fadeOut(0.1);
             $(".gamelink").fadeIn(1000);
             trueAnswercss.css("background-color", "green")

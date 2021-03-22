@@ -179,7 +179,9 @@ body{
     body{
         height: 1000px;
     }
-
+    .container{
+        height: 70%;
+    }
 }
 
 @media(max-width:991px){

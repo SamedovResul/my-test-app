@@ -64,6 +64,7 @@ body{
 .question-variant{
     margin-left: 10px;
     background-color: rgb(196, 148, 241);
+    color: white;
     border-radius: 30px;
     padding: 5px 6px 5px 6px;
 }

@@ -126,19 +126,6 @@ body{
     height: 2em;
 }
 
-.btn{
-    width: 100px;
-    height: 40px;
-    border-radius: 20px;
-    border: none;
-    background-color: rgb(50, 192, 69);
-    color: white;
-    font-size: 12px;
-    outline: none;
-    font-weight: 700;
-}
-
-
 
 .question{
     font-family: Georgia;
@@ -170,7 +157,7 @@ body{
     border: none;
     background-color: blueviolet;
     border-radius: 30px;
-    outline: 0 !important;
+    border: none;
     color: white;
     font-weight: 700;
     /* margin: 10px 0px 10px 0px; */

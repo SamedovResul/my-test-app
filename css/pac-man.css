@@ -229,9 +229,6 @@ body{
     body{
         height: 730px;
     }
-    .imgbox{
-        height: 25%;
-    }
     .quizbox{
         padding-top: 10px !important;
         height: 65%;
@@ -244,7 +241,7 @@ body{
     .imgbox{
         display: flex;
         align-items: flex-end;
-        height: 30% !important;
+        height: 25% ;
     }   
     .container{
         height: 560px;

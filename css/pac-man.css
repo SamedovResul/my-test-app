@@ -78,24 +78,36 @@ body{
     color: white;
 }
 
-.quiz-option:nth-child(1) span {
-    background: red ;
-}
 
 .quiz-option:nth-child(1) {
     background: #c4f3b4 ;
+}
+.quiz-option:nth-child(1) span {
+    background: #89eb68  ;
 }
 
 
 .quiz-option:nth-child(2) {
     background: #f8c1f8 ;
 }
+.quiz-option:nth-child(2) span {
+    background: #f07bf0  ;
+}
 
 .quiz-option:nth-child(3) {
     background: #F5E698 ;
 }
+
+.quiz-option:nth-child(3) span {
+    background: #fae060  ;
+}
+
+
 .quiz-option:nth-child(4) {
     background: rgb(153, 210, 233) ;
+}
+.quiz-option:nth-child(4)  span{
+    background: rgb(113, 207, 245) ;
 }
 
 .quiz-option:hover{

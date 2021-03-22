@@ -215,7 +215,7 @@ body{
 
 @media(max-width:496px){
     body{
-        height: 700px;
+        height: 730px;
     }
     .quizbox{
         padding-top: 10px !important;
